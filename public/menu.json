@@ -1,0 +1,391 @@
+[
+    {
+        "_id": 1,
+        "name": "biriyani",
+        "recipe":"Marinate chicken with yogurt, spices, and herbs, then layer with semi-cooked basmati rice, fried onions, saffron milk, and ghee, cook on low heat (dum) for aromatic, flavorful biryani.",
+        "image":"/images/biriyani.png",
+        "rating": 4.5,
+        "category":"Indian Dish",
+        "price": 299
+    },
+    {
+        "_id": 2,
+        "name": "Ramen",
+        "recipe": "Cook instant ramen noodles in boiling water, drain, and toss with a mix of soy sauce, sesame oil, and a sprinkle of chili flakes for a quick and flavorful dish.",
+        "image": "/images/ramen.png",
+        "category": "Chinese Dish",
+        "price": 199
+    },
+    {
+        "_id": 3,
+        "name": "Mango Shake",
+        "recipe": "Blend ripe mango chunks, cold milk, a bit of sugar, and ice until smooth, then serve chilled.",
+        "image": "/images/mango shake.png",
+        "category": "drinks",
+        "price": 69
+    },
+    {
+        "_id": 4,
+        "name": "Vada Pav",
+        "recipe": "Stuff a spicy mashed potato fritter (batata vada) between a pav (bun) with garlic chutney, green chutney, and fried green chilies, then serve hot.",
+        "image": "/images/Vada pav.png",
+        "category": "Indian Dish",
+        "price": 99
+    },
+    {
+        "_id": 5,
+        "name": "Muffins",
+        "recipe": "Mix flour, sugar, baking powder, eggs, milk, and butter, fold in your favorite add-ins (like blueberries or chocolate chips), and bake until golden.",
+        "image": "/images/muffins.png",
+        "category": "dessert",
+        "price": 59
+    },
+    {
+        "_id": 6,
+        "name": "Chicken Tandoori",
+        "recipe": "Marinate chicken in yogurt, lemon juice, and spices (like garam masala, cumin, and turmeric), then grill or bake until charred and cooked through.",
+        "image": "/images/Chicken tandoori.png",
+        "category": "Indian Dish",
+        "price": 149
+    },
+    {
+        "_id": 7,
+        "name": "Kachuri",
+        "recipe": "Fill rolled dough with spiced lentil or pea filling, seal, and deep-fry until golden brown and crispy, then serve hot with tamarind chutney.",
+        "image": "/images/kachuri.png",
+        "category": "Indian Dish",
+        "price": 129
+    },
+    {
+        "_id": 8,
+        "name": "Pizza",
+        "recipe": "Spread pizza dough with tomato sauce, add toppings like cheese and vegetables or meat, then bake at 475°F (245°C) until the crust is golden and cheese is bubbly.",
+        "image": "/images/pizza.png",
+        "category": "Pizza & Burger",
+        "price": 249
+    },
+    {
+        "_id": 9,
+        "name": "Chowmin",
+        "recipe": "Stir-fry boiled noodles with vegetables, soy sauce, and your choice of protein (like chicken or tofu) until golden and slightly crispy.",
+        "image": "/images/chowmin.png",
+        "category": "Chinese Dish",
+        "price": 139
+    },
+    {
+        "_id": 10,
+        "name": "Mojito",
+        "recipe": "Muddle fresh mint leaves, lime juice, and sugar, add rum, ice, and soda water, then stir and garnish with mint sprigs.",
+        "image": "/images/mojito.png",
+        "category": "drinks",
+        "price": 59
+    },
+    {
+        "_id": 11,
+        "name": "Kadai Chicken",
+        "recipe": "Sauté marinated chicken with onions, bell peppers, and a blend of spices (like coriander, cumin, and garam masala) in a hot kadai (wok) until cooked through and aromatic.",
+        "image": "/images/kadaichicken.png",
+        "category": "Indian Dish",
+        "price": 199
+    },
+    {
+        "_id": 12,
+        "name": "Roshmalai",
+        "recipe": "Soak soft paneer balls (rasgullas) in sweetened, thickened milk flavored with cardamom and saffron, then chill and garnish with nuts before serving.",
+        "image": "/images/rosmalai.png",
+        "category": "dessert",
+        "price": 59
+    },
+    {
+        "_id": 13,
+        "name": "Chili Chicken",
+        "recipe": "Stir-fry battered chicken pieces with garlic, onions, bell peppers, soy sauce, chili sauce, and spices until crispy and coated in a spicy sauce.",
+        "image": "/images/Chilichicken.png",
+        "category": "Chinese Dish",
+        "price": 139
+    },
+    {
+        "_id": 14,
+        "name": "Sushi",
+        "recipe": "Layer sushi rice on nori, add fillings like fish or vegetables, roll tightly, slice, and serve with soy sauce, wasabi, and pickled ginger.",
+        "image": "/images/sushi.png",
+        "category": "Chinese Dish",
+        "price": 259
+    },
+    {
+        "_id": 15,
+        "name": "Ilish Bhapa",
+        "recipe": "Cook hilsa fish in a mustard paste with green chilies, turmeric, and mustard oil, then simmer until tender and serve with steamed rice.",
+        "image": "/images/sorsheilish.png",
+        "category": "Indian Dish",
+        "price": 169
+    },
+    {
+        "_id": 16,
+        "name": "Chocolate Shake",
+        "recipe": "Blend milk, chocolate ice cream, and chocolate syrup until smooth, then serve with whipped cream and a cherry on top.",
+        "image": "/images/chocolateshake.png",
+        "category": "drinks",
+        "price": 69
+    },
+    {
+        "_id": 17,
+        "name": "Butter Chicken",
+        "recipe": "Marinate chicken in yogurt, spices, and lemon juice, cook with butter, onions, tomatoes, and cream, then serve with naan or rice.",
+        "image": "/images/butterchicken.png",
+        "category": "Indian Dish",
+        "price": 149
+    },
+    {
+        "_id": 18,
+        "name": "Sondesh",
+        "recipe": "Prepare fresh chhena (paneer), knead with sugar and cardamom, shape into small pieces, and refrigerate for a delicate Bengali dessert.",
+        "image": "/images/sondesh.png",
+        "category": "dessert",
+        "price": 49
+    },
+    
+    {
+        "_id": 19,
+        "name": "Misti Pulao",
+        "recipe": "Cook basmati rice with ghee, aromatic spices, sugar, saffron, and a mix of raisins and nuts for a fragrant and mildly sweet pulao.",
+        "image": "/images/mistipulao.png",
+        "category": "Indian Dish",
+        "price": 89
+    },
+    {
+        "_id": 20,
+        "name": "Sha phaley",
+        "recipe": "Fill dough with seasoned ground meat and vegetables, shape into half-moons, then deep-fry until golden and crispy.",
+        "image": "/images/shapaleychinese.png",
+        "category": "Chinese Dish",
+        "price": 199
+    },
+    {
+        "_id": 21,
+        "name": "Pan Fried Momo",
+        "recipe": "Stuff dumpling wrappers with seasoned filling, steam until cooked, then pan-fry until golden and crispy on the outside.",
+        "image": "/images/panfriedmomo.png",
+        "category": "Chinese Dish",
+        "price": 99
+    },
+    {
+        "_id": 22,
+        "name": "Burger",
+        "recipe": "Grill a seasoned beef patty, layer it on a toasted bun with lettuce, tomato, cheese, and your favorite condiments, then serve hot.",
+        "image": "/images/theburgershack.png",
+        "category": "Pizza & Burger",
+        "price": 149
+    },
+    {
+        "_id": 23,
+        "name": "Dal Makhani",
+        "recipe": "Cook soaked black lentils and kidney beans with ginger, garlic, spices, butter, and cream, then simmer slowly for a rich, creamy flavor.",
+        "image": "/images/dalmakhani.png",
+        "category": "Indian Dish",
+        "price": 189
+    },
+    {
+        "_id": 24,
+        "name": "Butter Naan",
+        "recipe": "Knead dough with flour, yogurt, and yeast, roll into discs, cook in a hot tandoor or skillet, then brush with melted butter.",
+        "image": "/images/naan.png",
+        "category": "Indian Dish",
+        "price": 69
+
+    },
+    
+    {
+        "_id": 25,
+        "name": "Chana Mashala",
+        "recipe": "Cook boiled chickpeas with onions, tomatoes, and a blend of spices like cumin, coriander, and garam masala, then simmer until thick and flavorful.",
+        "image": "/images/chanamashala.png",
+        "category": "Indian Dish",
+        "price": 89
+    },
+    {
+        "_id": 26,
+        "name": "Idli",
+        "recipe": "Ferment a batter of rice and urad dal, then steam in molds until soft and fluffy.",
+        "image": "/images/edli.png",
+        "category": "Indian Dish",
+        "price": 69
+    },
+    {
+        "_id": 27,
+        "name": "Jalebi",
+        "recipe": "Prepare a batter with flour and yogurt, pipe into hot oil to form spirals, then soak in sugar syrup for a crispy, sweet treat.",
+        "image": "/images/jalebi.png",
+        "category": "Indian Dish",
+        "price": 39
+    },
+    {
+        "_id": 28,
+        "name": "Indian Thali",
+        "recipe": "A vibrant assortment of Indian dishes served on a single platter, including rice, dal, vegetables, roti, pickles, and a sweet treat, offering a complete and balanced meal.",
+        "image": "/images/thali.png",
+        "category": "Indian Dish",
+        "price": 399
+    },
+    {
+        "_id": 29,
+        "name": "Strawberry Icecream",
+        "recipe": "Blend fresh strawberries with cream, sugar, and vanilla, then churn in an ice cream maker until smooth and creamy.",
+        "image": "/images/strawberryice.png",
+        "category": "dessert",
+        "price": 99
+    },
+    {
+        "_id": 30,
+        "name": "Pao Momo ",
+        "recipe": "Stuff pao (bread rolls) with spicy, seasoned momo filling, steam or pan-fry until cooked through, and serve with chutney.",
+        "image": "/images/powmomo.png",
+        "category": "Chinese Dish",
+        "price": 129
+    },
+    {
+        "_id": 31,
+        "name": "Malai Kofta",
+        "recipe": "Simmer deep-fried paneer and vegetable balls in a creamy, spiced tomato and onion gravy until well-coated and flavorful.",
+        "image": "/images/malaikofta.png",
+        "category": "Indian Dish",
+        "price": 139
+    },
+    {
+        "_id": 32,
+        "name": "Coconut Laddu",
+        "recipe": "Combine grated coconut with sweetened condensed milk and cardamom, then shape into balls and chill until firm.",
+        "image": "/images/coconutladdu.png",
+        "category": "dessert",
+        "price": 139
+    },
+    {
+        "_id": 33,
+        "name": "Dosa",
+        "recipe": "Ferment a batter of rice and urad dal, spread thin on a hot griddle, and cook until crisp and golden brown.",
+        "image": "/images/dosa.png",
+        "category": "Indian Dish",
+        "price": 59
+    },
+    {
+        "_id": 34,
+        "name": "Samosa",
+        "recipe": "Fill spiced potato and pea mixture into pastry triangles, then deep-fry until crispy and golden.",
+        "image": "/images/samosa.png",
+        "category": "Indian Dish",
+        "price": 59
+    },
+    {
+        "_id": 35,
+        "name": "kaju Katli",
+        "recipe": "Grind cashews into a fine powder, cook with sugar and ghee until it forms a dough, then roll out and cut into diamond-shaped pieces.",
+        "image": "/images/kajukatli.png",
+        "category": "dessert",
+        "price": 49
+    },
+    {
+        "_id": 36,
+        "name": "Mushroom Pizza",
+        "recipe": "Top a pizza dough with marinara sauce, mozzarella cheese, and sautéed mushrooms, then bake until crispy and golden.",
+        "image": "/images/mushroom.png",
+        "category": "Pizza & Burger",
+        "price": 249
+    },
+    {
+        "_id": 37,
+        "name": "Margharita Pizza",
+        "recipe": "Top pizza dough with tomato sauce, fresh mozzarella, and basil leaves, then bake until the crust is crispy and the cheese is melted and bubbly.",
+        "image": "/images/margharita.png",
+        "category": "Pizza & Burger",
+        "price": 189
+    },
+    {
+        "_id": 38,
+        "name": "Rosogolla",
+        "recipe": "Simmer soft, round paneer balls in a sugary syrup flavored with cardamom until they absorb the sweetness and become spongy.",
+        "image": "/images/rasgulla.png",
+        "category": "dessert",
+        "price": 89
+    },
+    {
+        "_id": 39,
+        "name": "Chole Kulcha",
+        "recipe": "Serve spicy, simmered chickpea curry (chole) with soft, fluffy kulchas (leavened bread) for a classic North Indian meal.",
+        "image": "/images/cholekulcha.png",
+        "category": "Indian Dish",
+        "price": 189
+    },
+    {
+        "_id": 40,
+        "name": "Chili Garlic Noodles",
+        "recipe": "Stir-fry cooked noodles with garlic, chili paste, soy sauce, and vegetables for a spicy, savory dish.",
+        "image": "/images/Chilligarlicnoodles.png",
+        "category": "Chinese Dish",
+        "price": 149
+    },
+    {
+        "_id": 41,
+        "name": "Fish Fry",
+        "recipe": "Marinate fish fillets in spices and lemon juice, coat with flour or breadcrumbs, then pan-fry until crispy and golden.",
+        "image": "/images/fishfry.png",
+        "category": "Indian Dish",
+        "price": 89
+    },
+    {
+        "_id": 42,
+        "name": "Pepperoni Pizza",
+        "recipe": "Top pizza dough with marinara sauce, mozzarella cheese, and pepperoni slices, then bake until the crust is golden and the cheese is bubbly.",
+        "image": "/images/Pepperoni.png",
+        "category": "Pizza & Burger",
+        "price": 219
+    },
+    {
+        "_id": 43,
+        "name": "Chocolate Mousse",
+        "recipe": "For a quick chocolate mousse, melt 1 cup of chocolate and mix with 1 cup of whipped cream; chill until set.",
+        "image": "/images/Mousse.png",
+        "category": "drinks",
+        "price": 99
+    },
+    {
+        "_id": 44,
+        "name": "Wonton Soup",
+        "recipe": "For a quick wonton soup, bring chicken or vegetable broth to a boil, add store-bought wontons, cook until they float, and garnish with green onions and a splash of soy sauce.",
+        "image": "/images/wontonsoup.png",
+        "category": "Chinese Dish",
+        "price": 169
+    },
+    {
+        "_id": 45,
+        "name": "Iced Mocha",
+        "recipe": "Blend brewed coffee, cocoa powder, milk, and ice, then sweeten to taste with sugar or syrup for a refreshing iced mocha.",
+        "image": "/images/IcedMocha.png",
+        "category": "drinks",
+        "price": 159
+    },
+    {
+        "_id": 46,
+        "name": "Milk Pudding with Coconut",
+        "recipe": "Simmer milk with sugar and a thickener like cornstarch, stir until it thickens, then chill until set.",
+        "image": "/images/milkpudding.png",
+        "category": "dessert",
+        "price": 99
+    },
+    {
+        "_id": 47,
+        "name": "Crispy Chicken",
+        "recipe": "Coat chicken pieces in seasoned flour, dip in beaten egg, then dredge in breadcrumbs, and bake or fry until golden and crispy.",
+        "image": "/images/crispychicken.png",
+        "category": "Chinese Dish",
+        "price": 229
+    },
+    {
+        "_id": 48,
+        "name": "Dahi Lassi",
+        "recipe": "Blend yogurt, water, a pinch of salt, and a touch of sugar until smooth, then garnish with a sprinkle of cumin powder or mint leaves.",
+        "image": "/images/lassi.png",
+        "category": "Indian Dish",
+        "price": 99
+    }
+    
+]
